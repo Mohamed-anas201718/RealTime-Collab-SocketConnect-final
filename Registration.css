@@ -1,0 +1,72 @@
+div.buttonlogin,
+div.button1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #007bff; /* Add button color */
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100px; /* Adjusted size */
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+
+div.buttonlogin:hover,
+div.button1:hover {
+    background-color: #0056b3; /* Hover state */
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+div.ABC
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10;
+    font-family: Arial, sans-serif;
+    color : #ff0000;
+}
+div.ABCD
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10;
+    font-family: Arial, sans-serif;
+    color: #000080;
+}
+div.button1
+{
+    
+    color: white;
+    
+    text-align: center;
+    font-size: 16px;
+    
+    cursor: pointer;
+    width: 50px; 
+    height: 50px;
+}
+*/
+    /*
+.section
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    font-family: Arial, sans-serif;
+}
+    */

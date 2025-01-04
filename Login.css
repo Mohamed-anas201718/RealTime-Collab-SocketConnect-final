@@ -1,0 +1,27 @@
+div.login
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10;
+    font-family: Arial, sans-serif;
+    color : #ff0000;
+}
+
+div.emailpass
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10;
+    font-family: Arial, sans-serif;
+    color: #000080;
+}
+div.buttonlogin
+{
+    text-align: center;
+    align-items: center;
+    width: 80px; 
+    height: 50px;
+
+}

@@ -1,0 +1,29 @@
+.AB
+{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 10px;
+    font-family: Arial, sans-serif;
+    text-align: left;
+}
+nav {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 10px;
+    font-family: Arial, sans-serif;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  nav span {
+    color: gray;
+  }
+  
+  nav a:hover {
+    color: blue;
+  }
